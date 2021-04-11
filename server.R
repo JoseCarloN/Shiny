@@ -6,6 +6,7 @@ library("dplyr")
 library("lubridate")
 library("googlesheets4")
 library("tibble")
+library("ggplot2")
 
 server = function(input, output, session) {
   
@@ -42,7 +43,7 @@ server = function(input, output, session) {
     googlesheets4::gs4_auth(cache = ".secrets", email = TRUE)
     z = googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1YZc4O22i02Zik3BLwPOwDY8iQoCovrEUgMtyh2rSVfs/edit?ts=606cc31d#gid=642670686")
     #colnames(z) = make.names(colnames(z))
-    metas = read.csv("https://raw.githubusercontent.com/ghostdoggie1/Shiny/main/Metas.csv")
+    metas = read.csv("https://raw.githubusercontent.com/ghostdoggie1/Shiny/main/Metas.csv", encoding = "UTF-8")
     colnames(metas) = c("Nombre del Encuestador", "Punto de vacunación", "Sexo del Encuestado", "Rango de Edad", "Encuestas", "Zona", "Dia", "Meta")
      
     z$`Nombre del Encuestador`[971] = "Lucia Dzib"
@@ -52,9 +53,9 @@ server = function(input, output, session) {
     z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?` = ifelse(is.na(z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?`), "No disponible" , z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?`)
     z$`¿En que consistió el apoyo?`[is.na(z$`¿En que consistió el apoyo?`)] = "No disponible"
     
-    data = filter(z, `Punto de vacunación` == modulo)
+    data = z[-496,]
+    data = filter(data, `Punto de vacunación` == modulo)
     
-    data = data[-496,]
     data = data %>%
       filter((hour(`Marca temporal`) > 7 & hour(`Marca temporal`) < 21) & !(`Nombre del Encuestador` == "Cinthya Ayala" & `Marca temporal` < as.POSIXct("2021-04-10")))
     data$`Nombre del Encuestador`[data$`Nombre del Encuestador` == "Rafael Polanco"] = "Cinthya Ayala"
@@ -89,22 +90,70 @@ server = function(input, output, session) {
       arrange(`Nombre del Encuestador`, `Punto de vacunación`, `Sexo del Encuestado`, `Rango de Edad`)
     encuesta_persona_semana$ID = seq(1:nrow(encuesta_persona_semana))
 
-    # meta_semana = metas %>%
-    #   filter(Dia <= 19 & `Nombre del Encuestador` != "Por definir" & `Nombre del Encuestador` %in% unique(encuesta_persona_semana$`Nombre del Encuestador`)) %>%
-    #   group_by(`Nombre del Encuestador`, `Punto de vacunación`, `Sexo del Encuestado`, `Rango de Edad`) %>%
-    #   summarise(Demanda = sum(Demanda))
-    # meta_semana$ID = seq(1:nrow(meta_semana))
+    meta_semana = metas %>%
+      filter(Dia <= 19 & `Nombre del Encuestador` != "Por definir" & `Nombre del Encuestador` %in% unique(encuesta_persona_semana$`Nombre del Encuestador`)) %>%
+      group_by(`Nombre del Encuestador`, `Punto de vacunación`, `Sexo del Encuestado`, `Rango de Edad`) %>%
+      summarise(Meta = sum(Meta))
+    meta_semana$ID = seq(1:nrow(meta_semana))
 
-    # semana = merge(x = encuesta_persona_semana, y = meta_semana, by = "ID") %>%
-    #   select(Nombre.del.Encuestador.x, Punto.de.vacunación.x, Sexo.del.Encuestado, Rango.de.Edad, Encuestas, Demanda) %>%
-    #   group_by(Nombre.del.Encuestador.x, Punto.de.vacunación.x, Sexo.del.Encuestado, Rango.de.Edad) %>%
-    #   summarise(Faltantes = max(0, Demanda - Encuestas))
-    semana = head(metas)
-    return(semana)
+    semana = merge(x = encuesta_persona_semana, y = meta_semana, by = "ID", all.x = TRUE) %>%
+      select(`Nombre del Encuestador` = `Nombre del Encuestador.x`, `Sexo del Encuestado` = `Sexo del Encuestado.x`, `Rango de Edad` = `Rango de Edad.x`, Encuestas, Meta) %>%
+      group_by(`Nombre del Encuestador`, `Sexo del Encuestado`, `Rango de Edad`) %>%
+      summarise(Faltantes = max(0, Meta - Encuestas))
+    
+    encuesta_centro_total_socio = data %>%
+      select(`Punto de vacunación`, `Sexo del Encuestado`, `¿Cuál es su Rango de Edad?`) %>%
+      mutate(`Rango de Edad` = ifelse(`¿Cuál es su Rango de Edad?` %in% c("65-69 años", "60-64 años"), "60-69 años", "70+")) %>%
+      group_by(`Punto de vacunación`, `Sexo del Encuestado` = as.factor(`Sexo del Encuestado`), `Rango de Edad` = as.factor(`Rango de Edad`), .drop = FALSE) %>%
+      summarise(Encuestas = n()) %>%
+      arrange(`Punto de vacunación`,`Sexo del Encuestado`, `Rango de Edad`)
+    encuesta_centro_total_socio$ID = seq(1:nrow(encuesta_centro_total_socio))
+    
+    meta_total_socio = metas %>%
+      group_by(`Punto de vacunación`, `Sexo del Encuestado`, `Rango de Edad`) %>%
+      summarise(Meta = sum(Meta))
+    meta_total_socio$ID = seq(1:nrow(meta_total_socio))
+    
+    encuesta_centro_total = merge(x = encuesta_centro_total_socio, y = meta_total_socio, by = "ID") %>%
+      select(`Punto de vacunación` = `Punto de vacunación.x`, `Sexo del Encuestado` = `Sexo del Encuestado.x`, `Rango de Edad` = `Rango de Edad.x`, Encuestas, Meta) %>%
+      group_by(`Punto de vacunación`, `Sexo del Encuestado`, `Rango de Edad`) %>%
+      summarise(Encuestas = min(Encuestas, Meta)) %>%
+      group_by(`Punto de vacunación`) %>%
+      summarise(Encuestas = sum(Encuestas))
+    encuesta_centro_total$ID = seq(1:nrow(encuesta_centro_total))
+    
+    meta_centro_total = metas %>%
+      group_by(`Punto de vacunación`) %>%
+      summarise(Meta = sum(Meta))
+    meta_centro_total$ID = seq(1:nrow(meta_centro_total))
+    
+    encuesta_centro_total = merge(x = encuesta_centro_total, y = meta_centro_total, by = "ID") %>%
+      select(`Punto de vacunación` = `Punto de vacunación.x`, Encuestas, Meta) %>%
+      group_by(`Punto de vacunación`) %>%
+      summarise(Avance = sum(Encuestas)/sum(Meta))
+    
+    bd = list(encuesta_centro_total, semana)
+    return(bd)
   })
   
   output$Meta = renderDataTable({
-    datos = df()
+    datos = df()[[2]]
     return(datos)
+  })
+  
+  output$Meta_chart = renderPlot({
+    ggplot(df()[[1]],
+           aes(ymax = Avance, ymin = 0, xmax = 2, xmin = 1)) +
+      geom_rect(aes(ymax = 1, ymin = 0, xmax = 2, xmin = 1), fill = "#CCCCCC", alpha = 0.4, color = "#001a23") +
+      geom_rect(fill = "#001a23") + 
+      coord_polar(theta = "y", start = -pi/2) + xlim(c(0, 2)) + ylim(c(0, 2)) +
+      geom_text(aes(x = 0, y = 0, label = paste0(round(Avance * 100, 0), "%")), family = "Barlow Black") +
+      geom_text(aes(x = 0.5, y = 1.5, label = `Punto de vacunación`), family = "Barlow SemiBold", size = 3) +
+      theme_void() +
+      theme(strip.background = element_blank(),
+            strip.text.x = element_blank()) +
+      guides(fill = FALSE) +
+      guides(colour = FALSE)
+    #amSolidGauge(round(df()[[1]]$Avance * 100, 0), type = "semi", width = 50, color = "#2F4F4F", text = "%", textSize = 30)
   })
 }
