@@ -1,12 +1,16 @@
 library("shiny")
 library("shinydashboard")
-library("rAmCharts")
 library("data.table")
 library("dplyr")
 library("lubridate")
 library("googlesheets4")
 library("tibble")
 library("ggplot2")
+library("DT")
+
+dir.create('~/.fonts')
+file.copy(c("www/Barlow-Black.ttf", "www/Barlow-SemiBold.ttf"), "~/.fonts")
+system('fc-cache -f ~/.fonts')
 
 ui = dashboardPage(skin = "blue",
                    dashboardHeader(title = "Avance"),
@@ -15,15 +19,13 @@ ui = dashboardPage(skin = "blue",
                      
                      tabsetPanel(type = "tabs",
                                  tabPanel("General", tabItem(tabName = "dashboard1",
-                                                             fluidRow(column(12, box(
-                                                               dataTableOutput(outputId = "Genera"), solidHeader = TRUE, height = "auto", width = "7")
-                                                               )
+                                                             fluidRow(box(status = "info", plotOutput(outputId = "General_chart"), height = "auto", width = "5"),
+                                                                      box(dataTableOutput(outputId = "General"), solidHeader = TRUE, height = "auto", width = "7")
                                                                )
                                                              )
                                           ),
-                                 tabPanel("Semana", tabItem(tabName = "dashboard1",
-                                                            fluidRow(box(dataTableOutput(outputId = "Meta"), solidHeader = TRUE, height = "auto", width = "7"),
-                                                                     box(status = "info", plotOutput(outputId = "Meta_chart"), height = "auto", width = "5")
+                                 tabPanel("Hoy", tabItem(tabName = "dashboard1",
+                                                            fluidRow(box(dataTableOutput(outputId = "Meta_dia"), solidHeader = TRUE, height = "auto", width = "7")
                                                                        )
                                                             )
                                           )
