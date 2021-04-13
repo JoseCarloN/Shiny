@@ -87,7 +87,7 @@ server = function(input, output, session) {
     
     data = filter(z, `Punto de vacunación` == modulo)
     
-    corte_anterior = as.POSIXct(paste0("2021", sep = "-", "04", sep = "-", 12, sep = " ", "07:00:00"), tz = "UTC")
+    corte_anterior = as.POSIXct(paste0("2021", sep = "-", "04", sep = "-", day(now()), sep = " ", "07:00:00"), tz = "UTC")
     corte_actual = now(tzone = "UTC")
     
     # Encuestas de hoy por persona #
