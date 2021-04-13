@@ -16,20 +16,24 @@ ui = dashboardPage(skin = "blue",
                    dashboardHeader(title = "Avance"),
                    dashboardSidebar(sidebarMenuOutput("menu")),
                    dashboardBody(mainPanel(
-                     
                      tabsetPanel(type = "tabs",
+                                 tabPanel("Avance", tabItem(tabName = "dashboard1",
+                                                            fluidRow(box(status = "info", plotOutput(outputId = "chart"), height = "2", width = "5")
+                                                                     )
+                                                            )
+                                          ),
                                  tabPanel("General", tabItem(tabName = "dashboard1",
-                                                             fluidRow(box(status = "info", plotOutput(outputId = "General_chart"), height = "auto", width = "5"),
-                                                                      box(dataTableOutput(outputId = "General"), solidHeader = TRUE, height = "auto", width = "7")
+                                                             fluidRow(box(dataTableOutput(outputId = "General"), solidHeader = TRUE, height = "auto", width = "6"),
+                                                                      box(dataTableOutput(outputId = "General_socio"), solidHeader = TRUE, height = "auto", width = "6")
                                                                )
                                                              )
                                           ),
                                  tabPanel("Hoy", tabItem(tabName = "dashboard1",
-                                                            fluidRow(box(dataTableOutput(outputId = "Meta_dia"), solidHeader = TRUE, height = "auto", width = "7")
+                                                            fluidRow(box(dataTableOutput(outputId = "Meta_dia"), solidHeader = TRUE, height = "auto", width = "auto")
                                                                        )
                                                             )
                                           )
                                  )
-                                )
-                   )
+                     )
+                     )
 )
