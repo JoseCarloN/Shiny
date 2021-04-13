@@ -1,1401 +1,675 @@
-﻿Nombre del Encuestador,Punto de vacunación,Sexo del Encuestado,Rango de Edad,Encuestas,Zona,Dia,Meta
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,7,3
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,7,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,7,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,7,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,8,4
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,8,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,8,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,8,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,9,3
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,9,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,9,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,9,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,10,4
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,10,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,10,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,10,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,11,3
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,11,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,11,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,11,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,12,4
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,12,5
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,12,3
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,12,4
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,13,0
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,13,0
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,13,1
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,13,1
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,14,0
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,14,0
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,14,0
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,14,2
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,15,0
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,15,0
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,15,0
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,15,1
-Antonio Hernandez,Siglo XXI,Hombre,60-69 años,12,Norte,16,0
-Antonio Hernandez,Siglo XXI,Mujer,60-69 años,4,Norte,16,0
-Antonio Hernandez,Siglo XXI,Hombre,70+,5,Norte,16,0
-Antonio Hernandez,Siglo XXI,Mujer,70+,9,Norte,16,1
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,7,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,7,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,7,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,7,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,8,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,8,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,8,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,8,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,9,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,9,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,9,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,9,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,10,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,10,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,10,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,10,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,11,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,11,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,11,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,11,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,12,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,12,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,12,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,12,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,13,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,13,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,13,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,13,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,14,2
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,14,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,14,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,14,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,15,2
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,15,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,15,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,15,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,16,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,16,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,16,0
-Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,16,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,7,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,7,3
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,7,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,7,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,8,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,8,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,8,1
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,8,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,9,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,9,3
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,9,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,9,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,10,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,10,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,10,1
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,10,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,11,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,11,3
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,11,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,11,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,12,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,12,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,12,1
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,12,2
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,13,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,13,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,13,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,13,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,14,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,14,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,14,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,14,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,15,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,15,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,15,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,15,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,16,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,60-69 años,2,Sur,16,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,70+,9,Sur,16,0
-Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,70+,0,Sur,16,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,7,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,7,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,7,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,7,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,8,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,8,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,8,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,8,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,9,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,9,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,9,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,9,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,10,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,10,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,10,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,10,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,11,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,11,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,11,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,11,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,12,4
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,12,5
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,12,3
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,12,3
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,13,1
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,13,1
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,13,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,13,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,14,1
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,14,1
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,14,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,14,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,15,1
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,15,1
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,15,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,15,0
-Cinthya Ayala,Secundaria Técnica 66,Hombre,60-69 años,0,Sur,16,1
-Cinthya Ayala,Secundaria Técnica 66,Mujer,60-69 años,7,Sur,16,1
-Cinthya Ayala,Secundaria Técnica 66,Hombre,70+,0,Sur,16,0
-Cinthya Ayala,Secundaria Técnica 66,Mujer,70+,15,Sur,16,0
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,7,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,7,2
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,7,1
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,7,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,8,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,8,3
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,8,2
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,8,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,9,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,9,2
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,9,1
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,9,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,10,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,10,3
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,10,2
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,10,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,11,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,11,2
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,11,1
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,11,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,12,2
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,12,3
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,12,2
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,12,2
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,13,0
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,13,1
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,13,0
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,13,0
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,14,0
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,14,0
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,14,0
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,14,0
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,15,0
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,15,1
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,15,0
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,15,0
-Claudia Contreras,Secundaria Federal 5,Hombre,60-69 años,4,Poniente,16,0
-Claudia Contreras,Secundaria Federal 5,Mujer,60-69 años,7,Poniente,16,0
-Claudia Contreras,Secundaria Federal 5,Hombre,70+,4,Poniente,16,0
-Claudia Contreras,Secundaria Federal 5,Mujer,70+,6,Poniente,16,0
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,7,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,7,3
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,7,2
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,7,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,8,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,8,2
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,8,1
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,8,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,9,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,9,3
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,9,2
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,9,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,10,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,10,2
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,10,1
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,10,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,11,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,11,3
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,11,2
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,11,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,12,2
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,12,2
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,12,1
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,12,2
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,13,0
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,13,0
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,13,0
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,13,0
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,14,0
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,14,0
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,14,0
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,14,0
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,15,0
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,15,0
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,15,0
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,15,0
-Eric Escalante,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,16,0
-Eric Escalante,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,16,0
-Eric Escalante,Secundaria Técnica 75,Hombre,70+,2,Poniente,16,0
-Eric Escalante,Secundaria Técnica 75,Mujer,70+,1,Poniente,16,0
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,7,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,7,2
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,7,1
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,7,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,8,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,8,3
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,8,2
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,8,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,9,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,9,2
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,9,1
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,9,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,10,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,10,3
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,10,2
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,10,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,11,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,11,2
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,11,1
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,11,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,12,2
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,12,3
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,12,2
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,12,2
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,13,1
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,13,2
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,13,0
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,13,0
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,14,1
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,14,1
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,14,0
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,14,0
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,15,1
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,15,2
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,15,0
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,15,0
-Erika Llanes,Tecnológico de Mérida,Hombre,60-69 años,3,Norte,16,1
-Erika Llanes,Tecnológico de Mérida,Mujer,60-69 años,3,Norte,16,0
-Erika Llanes,Tecnológico de Mérida,Hombre,70+,2,Norte,16,0
-Erika Llanes,Tecnológico de Mérida,Mujer,70+,5,Norte,16,0
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,7,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,7,3
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,7,2
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,7,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,8,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,8,2
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,8,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,8,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,9,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,9,3
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,9,2
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,9,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,10,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,10,2
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,10,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,10,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,11,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,11,3
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,11,2
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,11,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,12,2
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,12,2
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,12,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,12,2
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,13,1
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,13,1
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,13,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,13,1
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,14,1
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,14,1
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,14,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,14,1
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,15,1
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,15,1
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,15,1
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,15,1
-Estephania Duarte,Universidad Modelo,Hombre,60-69 años,3,Norte,16,1
-Estephania Duarte,Universidad Modelo,Mujer,60-69 años,4,Norte,16,1
-Estephania Duarte,Universidad Modelo,Hombre,70+,1,Norte,16,0
-Estephania Duarte,Universidad Modelo,Mujer,70+,4,Norte,16,1
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,7,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,7,3
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,7,2
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,7,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,8,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,8,2
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,8,1
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,8,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,9,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,9,3
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,9,2
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,9,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,10,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,10,2
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,10,1
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,10,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,11,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,11,3
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,11,2
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,11,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,12,2
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,12,2
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,12,1
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,12,2
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,13,0
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,13,1
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,13,0
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,13,1
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,14,1
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,14,0
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,14,0
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,14,0
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,15,0
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,15,1
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,15,0
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,15,0
-Faira Gomez,Conalep Mérida 1,Hombre,60-69 años,1,Oriente,16,0
-Faira Gomez,Conalep Mérida 1,Mujer,60-69 años,2,Oriente,16,1
-Faira Gomez,Conalep Mérida 1,Hombre,70+,4,Oriente,16,0
-Faira Gomez,Conalep Mérida 1,Mujer,70+,6,Oriente,16,0
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,7,2
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,7,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,7,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,7,2
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,8,3
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,8,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,8,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,8,3
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,9,2
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,9,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,9,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,9,2
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,10,3
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,10,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,10,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,10,3
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,11,2
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,11,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,11,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,11,2
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,12,3
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,12,3
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,12,2
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,12,3
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,13,0
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,13,0
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,13,0
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,13,0
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,14,0
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,14,0
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,14,0
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,14,0
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,15,0
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,15,0
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,15,0
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,15,0
-Fatima Balam,CBTIS 95,Hombre,60-69 años,5,Oriente,16,0
-Fatima Balam,CBTIS 95,Mujer,60-69 años,8,Oriente,16,0
-Fatima Balam,CBTIS 95,Hombre,70+,3,Oriente,16,0
-Fatima Balam,CBTIS 95,Mujer,70+,3,Oriente,16,0
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,7,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,7,3
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,7,2
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,7,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,8,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,8,2
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,8,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,8,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,9,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,9,3
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,9,2
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,9,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,10,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,10,2
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,10,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,10,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,11,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,11,3
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,11,2
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,11,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,12,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,12,2
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,12,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,12,2
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,13,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,13,1
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,13,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,13,1
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,14,1
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,14,1
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,14,0
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,14,1
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,15,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,15,1
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,15,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,15,1
-Fatima Canto,Cobay Chenku,Hombre,60-69 años,4,Poniente,16,2
-Fatima Canto,Cobay Chenku,Mujer,60-69 años,5,Poniente,16,1
-Fatima Canto,Cobay Chenku,Hombre,70+,0,Poniente,16,1
-Fatima Canto,Cobay Chenku,Mujer,70+,1,Poniente,16,1
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,7,2
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,7,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,7,2
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,7,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,8,1
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,8,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,8,1
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,8,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,9,2
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,9,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,9,2
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,9,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,10,1
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,10,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,10,1
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,10,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,11,2
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,11,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,11,2
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,11,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,12,1
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,12,2
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,12,1
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,12,2
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,13,0
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,13,0
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,13,0
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,13,0
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,14,0
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,14,0
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,14,0
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,14,0
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,15,0
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,15,0
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,15,0
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,15,0
-Flor Poot,Inalámbrica,Hombre,60-69 años,8,Poniente,16,0
-Flor Poot,Inalámbrica,Mujer,60-69 años,9,Poniente,16,0
-Flor Poot,Inalámbrica,Hombre,70+,6,Poniente,16,0
-Flor Poot,Inalámbrica,Mujer,70+,9,Poniente,16,0
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,7,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,7,3
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,7,2
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,7,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,8,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,8,2
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,8,1
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,8,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,9,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,9,3
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,9,2
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,9,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,10,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,10,2
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,10,1
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,10,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,11,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,11,3
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,11,2
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,11,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,12,2
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,12,2
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,12,1
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,12,2
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,13,1
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,13,1
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,13,0
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,13,0
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,14,1
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,14,2
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,14,0
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,14,0
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,15,1
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,15,1
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,15,0
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,15,0
-Sahia Farah,Tecnológico de Mérida,Hombre,60-69 años,1,Norte,16,1
-Sahia Farah,Tecnológico de Mérida,Mujer,60-69 años,4,Norte,16,1
-Sahia Farah,Tecnológico de Mérida,Hombre,70+,2,Norte,16,0
-Sahia Farah,Tecnológico de Mérida,Mujer,70+,5,Norte,16,0
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,7,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,7,2
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,7,1
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,7,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,8,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,8,3
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,8,2
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,8,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,9,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,9,2
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,9,1
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,9,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,10,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,10,3
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,10,2
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,10,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,11,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,11,2
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,11,1
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,11,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,12,2
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,12,3
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,12,2
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,12,2
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,13,1
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,13,0
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,13,0
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,13,0
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,14,0
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,14,1
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,14,0
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,14,1
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,15,1
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,15,0
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,15,0
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,15,0
-Israel Cabañas,Conalep Mérida 1,Hombre,60-69 años,2,Oriente,16,1
-Israel Cabañas,Conalep Mérida 1,Mujer,60-69 años,3,Oriente,16,0
-Israel Cabañas,Conalep Mérida 1,Hombre,70+,2,Oriente,16,0
-Israel Cabañas,Conalep Mérida 1,Mujer,70+,5,Oriente,16,0
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,7,4
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,7,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,7,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,7,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,8,3
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,8,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,8,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,8,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,9,4
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,9,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,9,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,9,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,10,3
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,10,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,10,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,10,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,11,4
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,11,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,11,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,11,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,12,3
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,12,5
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,12,3
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,12,4
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,13,0
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,13,1
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,13,0
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,13,2
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,14,0
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,14,0
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,14,0
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,14,1
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,15,0
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,15,0
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,15,0
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,15,2
-Jaimen Cantu,Siglo XXI,Hombre,60-69 años,7,Norte,16,0
-Jaimen Cantu,Siglo XXI,Mujer,60-69 años,4,Norte,16,0
-Jaimen Cantu,Siglo XXI,Hombre,70+,6,Norte,16,0
-Jaimen Cantu,Siglo XXI,Mujer,70+,5,Norte,16,1
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,7,1
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,7,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,7,1
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,7,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,8,2
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,8,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,8,2
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,8,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,9,1
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,9,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,9,1
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,9,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,10,2
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,10,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,10,2
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,10,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,11,1
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,11,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,11,1
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,11,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,12,2
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,12,2
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,12,2
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,12,2
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,13,0
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,13,0
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,13,0
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,13,0
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,14,0
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,14,0
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,14,0
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,14,0
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,15,0
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,15,0
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,15,0
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,15,0
-Jessica Ceballos,Inalámbrica,Hombre,60-69 años,4,Poniente,16,0
-Jessica Ceballos,Inalámbrica,Mujer,60-69 años,5,Poniente,16,0
-Jessica Ceballos,Inalámbrica,Hombre,70+,3,Poniente,16,0
-Jessica Ceballos,Inalámbrica,Mujer,70+,10,Poniente,16,0
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,7,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,7,4
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,7,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,7,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,8,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,8,5
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,8,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,8,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,9,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,9,4
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,9,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,9,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,10,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,10,5
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,10,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,10,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,11,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,11,4
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,11,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,11,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,12,4
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,12,5
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,12,3
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,12,4
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,13,0
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,13,0
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,13,1
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,13,1
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,14,0
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,14,0
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,14,0
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,14,2
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,15,0
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,15,0
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,15,0
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,15,1
-Joaquin Noguera,Siglo XXI,Hombre,60-69 años,2,Norte,16,0
-Joaquin Noguera,Siglo XXI,Mujer,60-69 años,7,Norte,16,0
-Joaquin Noguera,Siglo XXI,Hombre,70+,7,Norte,16,0
-Joaquin Noguera,Siglo XXI,Mujer,70+,9,Norte,16,1
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,7,3
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,7,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,7,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,7,3
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,8,2
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,8,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,8,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,8,2
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,9,3
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,9,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,9,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,9,3
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,10,2
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,10,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,10,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,10,2
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,11,3
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,11,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,11,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,11,3
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,12,2
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,12,3
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,12,2
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,12,2
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,13,0
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,13,1
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,13,0
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,13,0
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,14,0
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,14,1
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,14,0
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,14,0
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,15,0
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,15,1
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,15,0
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,15,0
-Jorge Barcelo Paredes,CANACO,Hombre,60-69 años,2,Centro,16,0
-Jorge Barcelo Paredes,CANACO,Mujer,60-69 años,2,Centro,16,0
-Jorge Barcelo Paredes,CANACO,Hombre,70+,3,Centro,16,0
-Jorge Barcelo Paredes,CANACO,Mujer,70+,3,Centro,16,0
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,7,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,7,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,7,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,7,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,8,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,8,3
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,8,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,8,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,9,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,9,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,9,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,9,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,10,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,10,3
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,10,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,10,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,11,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,11,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,11,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,11,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,12,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,12,3
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,12,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,12,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,13,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,13,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,13,0
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,13,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,14,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,14,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,14,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,14,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,15,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,15,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,15,0
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,15,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,60-69 años,1,Poniente,16,2
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,60-69 años,1,Poniente,16,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,70+,5,Poniente,16,1
-Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,70+,2,Poniente,16,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,7,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,7,3
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,7,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,7,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,8,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,8,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,8,1
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,8,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,9,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,9,3
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,9,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,9,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,10,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,10,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,10,1
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,10,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,11,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,11,3
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,11,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,11,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,12,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,12,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,12,1
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,12,2
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,13,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,13,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,13,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,13,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,14,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,14,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,14,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,14,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,15,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,15,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,15,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,15,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,60-69 años,2,Norte,16,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,60-69 años,6,Norte,16,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,70+,3,Norte,16,0
-José Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,70+,2,Norte,16,0
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,7,3
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,7,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,7,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,7,3
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,8,2
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,8,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,8,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,8,2
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,9,3
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,9,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,9,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,9,3
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,10,2
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,10,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,10,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,10,2
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,11,3
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,11,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,11,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,11,3
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,12,2
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,12,3
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,12,2
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,12,2
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,13,0
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,13,0
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,13,0
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,13,0
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,14,0
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,14,0
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,14,0
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,14,0
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,15,0
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,15,0
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,15,0
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,15,0
-Lucia Dzib,CBTIS 95,Hombre,60-69 años,6,Oriente,16,0
-Lucia Dzib,CBTIS 95,Mujer,60-69 años,5,Oriente,16,0
-Lucia Dzib,CBTIS 95,Hombre,70+,2,Oriente,16,0
-Lucia Dzib,CBTIS 95,Mujer,70+,6,Oriente,16,0
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,7,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,7,2
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,7,1
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,7,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,8,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,8,3
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,8,2
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,8,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,9,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,9,2
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,9,1
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,9,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,10,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,10,3
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,10,2
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,10,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,11,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,11,2
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,11,1
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,11,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,12,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,12,3
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,12,2
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,12,2
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,13,1
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,13,1
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,13,0
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,13,1
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,14,2
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,14,0
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,14,0
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,14,0
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,15,1
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,15,1
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,15,0
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,15,0
-Luis Gamboa,ESAY,Hombre,60-69 años,2,Centro,16,0
-Luis Gamboa,ESAY,Mujer,60-69 años,4,Centro,16,1
-Luis Gamboa,ESAY,Hombre,70+,4,Centro,16,0
-Luis Gamboa,ESAY,Mujer,70+,5,Centro,16,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,7,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,7,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,7,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,7,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,8,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,8,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,8,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,8,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,9,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,9,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,9,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,9,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,10,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,10,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,10,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,10,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,11,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,11,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,11,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,11,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,12,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,12,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,12,0
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,12,0
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,13,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,13,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,13,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,13,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,14,4
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,14,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,14,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,14,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,15,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,15,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,15,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,15,4
-Roque Avila,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,16,3
-Roque Avila,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,16,3
-Roque Avila,Polifuncional San José Tecoh,Hombre,70+,5,Sur,16,2
-Roque Avila,Polifuncional San José Tecoh,Mujer,70+,5,Sur,16,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,7,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,7,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,7,3
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,7,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,8,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,8,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,8,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,8,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,9,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,9,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,9,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,9,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,10,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,10,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,10,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,10,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,11,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,11,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,11,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,11,3
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,12,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,12,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,12,2
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,12,2
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,13,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,13,1
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,13,0
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,13,0
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,14,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,14,1
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,14,0
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,14,0
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,15,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,15,1
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,15,0
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,15,0
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,60-69 años,2,Sur,16,1
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,60-69 años,1,Sur,16,0
-Maximiliano Estrella,Secundaria Técnica 66,Hombre,70+,5,Sur,16,0
-Maximiliano Estrella,Secundaria Técnica 66,Mujer,70+,4,Sur,16,0
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,7,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,7,2
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,7,1
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,7,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,8,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,8,3
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,8,2
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,8,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,9,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,9,2
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,9,1
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,9,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,10,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,10,3
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,10,2
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,10,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,11,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,11,2
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,11,1
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,11,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,12,2
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,12,3
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,12,2
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,12,2
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,13,0
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,13,0
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,13,0
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,13,0
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,14,0
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,14,0
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,14,0
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,14,0
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,15,0
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,15,0
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,15,0
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,15,0
-Misael Parra,Secundaria Técnica 75,Hombre,60-69 años,5,Poniente,16,0
-Misael Parra,Secundaria Técnica 75,Mujer,60-69 años,9,Poniente,16,0
-Misael Parra,Secundaria Técnica 75,Hombre,70+,2,Poniente,16,0
-Misael Parra,Secundaria Técnica 75,Mujer,70+,1,Poniente,16,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,7,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,7,3
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,7,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,7,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,8,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,8,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,8,1
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,8,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,9,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,9,3
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,9,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,9,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,10,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,10,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,10,1
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,10,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,11,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,11,3
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,11,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,11,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,12,2
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,12,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,12,1
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,12,2
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,13,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,13,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,13,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,13,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,14,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,14,1
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,14,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,14,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,15,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,15,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,15,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,15,0
-Mitchel Hernandez,Secundaria Federal 5,Hombre,60-69 años,2,Poniente,16,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,60-69 años,6,Poniente,16,1
-Mitchel Hernandez,Secundaria Federal 5,Hombre,70+,2,Poniente,16,0
-Mitchel Hernandez,Secundaria Federal 5,Mujer,70+,3,Poniente,16,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,7,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,7,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,7,1
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,7,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,8,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,8,3
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,8,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,8,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,9,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,9,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,9,1
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,9,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,10,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,10,3
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,10,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,10,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,11,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,11,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,11,1
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,11,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,12,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,12,3
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,12,2
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,12,2
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,13,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,13,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,13,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,13,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,14,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,14,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,14,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,14,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,15,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,15,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,15,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,15,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,60-69 años,7,Norte,16,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,60-69 años,7,Norte,16,0
-Paula Jimenez,Gimnasio Polifuncional,Hombre,70+,7,Norte,16,0
-Paula Jimenez,Gimnasio Polifuncional,Mujer,70+,17,Norte,16,0
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,7,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,7,5
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,7,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,7,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,8,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,8,4
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,8,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,8,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,9,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,9,5
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,9,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,9,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,10,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,10,4
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,10,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,10,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,11,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,11,5
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,11,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,11,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,12,4
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,12,4
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,12,3
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,12,4
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,13,0
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,13,1
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,13,0
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,13,2
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,14,0
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,14,0
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,14,0
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,14,1
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,15,0
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,15,0
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,15,0
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,15,2
-Pedro Pereira,Siglo XXI,Hombre,60-69 años,5,Norte,16,0
-Pedro Pereira,Siglo XXI,Mujer,60-69 años,6,Norte,16,0
-Pedro Pereira,Siglo XXI,Hombre,70+,9,Norte,16,0
-Pedro Pereira,Siglo XXI,Mujer,70+,8,Norte,16,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,7,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,7,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,7,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,7,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,8,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,8,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,8,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,8,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,9,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,9,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,9,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,9,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,10,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,10,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,10,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,10,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,11,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,11,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,11,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,11,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,12,7
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,12,9
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,12,5
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,12,7
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,13,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,13,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,13,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,13,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,14,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,14,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,14,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,14,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,15,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,15,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,15,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,15,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,16,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,16,0
-Rafael Polanco,Polifuncional San José Tecoh,Hombre,70+,5,Sur,16,0
-Rafael Polanco,Polifuncional San José Tecoh,Mujer,70+,5,Sur,16,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,7,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,7,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,7,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,7,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,8,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,8,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,8,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,8,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,9,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,9,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,9,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,9,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,10,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,10,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,10,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,10,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,11,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,11,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,11,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,11,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,12,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,12,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,12,0
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,12,0
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,13,4
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,13,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,13,3
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,13,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,14,3
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,14,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,14,3
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,14,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,15,4
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,15,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,15,3
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,15,4
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,60-69 años,3,Sur,16,3
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,60-69 años,0,Sur,16,3
-Carlos Ojeda,Polifuncional San José Tecoh,Hombre,70+,5,Sur,16,2
-Carlos Ojeda,Polifuncional San José Tecoh,Mujer,70+,5,Sur,16,3
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,7,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,7,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,7,1
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,7,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,8,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,8,3
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,8,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,8,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,9,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,9,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,9,1
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,9,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,10,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,10,3
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,10,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,10,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,11,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,11,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,11,1
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,11,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,12,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,12,3
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,12,2
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,12,2
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,13,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,13,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,13,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,13,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,14,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,14,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,14,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,14,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,15,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,15,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,15,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,15,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,60-69 años,3,Sur,16,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,60-69 años,0,Sur,16,0
-Roque Avila,Unidad Deportiva Villa Palmira,Hombre,70+,5,Sur,16,0
-Roque Avila,Unidad Deportiva Villa Palmira,Mujer,70+,5,Sur,16,0
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,7,2
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,7,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,7,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,7,2
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,8,3
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,8,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,8,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,8,3
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,9,2
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,9,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,9,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,9,2
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,10,3
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,10,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,10,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,10,3
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,11,2
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,11,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,11,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,11,2
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,12,3
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,12,3
-Russel Acosta,CANACO,Hombre,70+,3,Centro,12,2
-Russel Acosta,CANACO,Mujer,70+,6,Centro,12,3
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,13,0
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,13,1
-Russel Acosta,CANACO,Hombre,70+,3,Centro,13,0
-Russel Acosta,CANACO,Mujer,70+,6,Centro,13,0
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,14,0
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,14,1
-Russel Acosta,CANACO,Hombre,70+,3,Centro,14,0
-Russel Acosta,CANACO,Mujer,70+,6,Centro,14,0
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,15,0
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,15,1
-Russel Acosta,CANACO,Hombre,70+,3,Centro,15,0
-Russel Acosta,CANACO,Mujer,70+,6,Centro,15,0
-Russel Acosta,CANACO,Hombre,60-69 años,3,Centro,16,0
-Russel Acosta,CANACO,Mujer,60-69 años,2,Centro,16,1
-Russel Acosta,CANACO,Hombre,70+,3,Centro,16,0
-Russel Acosta,CANACO,Mujer,70+,6,Centro,16,0
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,7,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,7,2
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,7,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,7,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,8,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,8,3
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,8,2
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,8,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,9,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,9,2
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,9,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,9,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,10,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,10,3
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,10,2
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,10,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,11,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,11,2
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,11,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,11,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,12,2
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,12,3
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,12,2
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,12,2
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,13,1
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,13,1
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,13,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,13,1
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,14,1
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,14,1
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,14,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,14,1
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,15,1
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,15,1
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,15,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,15,1
-Wendy Macias,Universidad Modelo,Hombre,60-69 años,2,Norte,16,1
-Wendy Macias,Universidad Modelo,Mujer,60-69 años,3,Norte,16,0
-Wendy Macias,Universidad Modelo,Hombre,70+,3,Norte,16,1
-Wendy Macias,Universidad Modelo,Mujer,70+,3,Norte,16,0
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,7,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,7,3
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,7,2
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,7,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,8,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,8,2
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,8,1
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,8,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,9,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,9,3
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,9,2
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,9,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,10,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,10,2
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,10,1
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,10,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,11,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,11,3
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,11,2
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,11,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,12,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,12,2
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,12,1
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,12,2
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,13,2
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,13,2
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,13,0
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,13,0
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,14,0
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,14,1
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,14,1
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,14,0
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,15,1
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,15,2
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,15,0
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,15,0
-Wilbert Uicab,ESAY,Hombre,60-69 años,0,Centro,16,0
-Wilbert Uicab,ESAY,Mujer,60-69 años,2,Centro,16,1
-Wilbert Uicab,ESAY,Hombre,70+,7,Centro,16,1
-Wilbert Uicab,ESAY,Mujer,70+,4,Centro,16,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,7,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,7,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,7,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,7,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,8,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,8,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,8,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,8,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,9,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,9,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,9,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,9,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,10,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,10,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,10,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,10,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,11,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,11,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,11,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,11,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,12,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,12,6
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,12,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,12,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,13,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,13,3
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,13,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,13,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,14,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,14,3
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,14,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,14,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,15,4
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,15,3
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,15,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,15,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,60-69 años,3,Poniente,16,5
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,60-69 años,4,Poniente,16,3
-Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,70+,7,Poniente,16,0
-Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,70+,5,Poniente,16,1
+Nombre del Encuestador,Punto de vacunaci�n,Sexo del Encuestado,Dia,Rango de Edad,Meta
+Jorge Barcelo Paredes,CANACO,Hombre,7,60-69 a�os,2
+Jorge Barcelo Paredes,CANACO,Mujer,7,60-69 a�os,2
+Jorge Barcelo Paredes,CANACO,Hombre,7,70+,3
+Jorge Barcelo Paredes,CANACO,Mujer,7,70+,3
+Jorge Barcelo Paredes,CANACO,Hombre,8,60-69 a�os,3
+Jorge Barcelo Paredes,CANACO,Mujer,8,60-69 a�os,4
+Jorge Barcelo Paredes,CANACO,Hombre,8,70+,6
+Jorge Barcelo Paredes,CANACO,Mujer,8,70+,5
+Jorge Barcelo Paredes,CANACO,Hombre,9,60-69 a�os,5
+Jorge Barcelo Paredes,CANACO,Mujer,9,60-69 a�os,6
+Jorge Barcelo Paredes,CANACO,Hombre,9,70+,8
+Jorge Barcelo Paredes,CANACO,Mujer,9,70+,6
+Jorge Barcelo Paredes,CANACO,Hombre,10,60-69 a�os,1
+Jorge Barcelo Paredes,CANACO,Hombre,11,60-69 a�os,3
+Jorge Barcelo Paredes,CANACO,Mujer,11,60-69 a�os,5
+Jorge Barcelo Paredes,CANACO,Hombre,11,70+,4
+Jorge Barcelo Paredes,CANACO,Mujer,11,70+,5
+Jorge Barcelo Paredes,CANACO,Hombre,12,60-69 a�os,8
+Jorge Barcelo Paredes,CANACO,Mujer,12,60-69 a�os,6
+Jorge Barcelo Paredes,CANACO,Hombre,12,70+,6
+Jorge Barcelo Paredes,CANACO,Mujer,12,70+,10
+Russel Acosta,CANACO,Hombre,7,60-69 a�os,3
+Russel Acosta,CANACO,Mujer,7,60-69 a�os,2
+Russel Acosta,CANACO,Hombre,7,70+,3
+Russel Acosta,CANACO,Mujer,7,70+,6
+Russel Acosta,CANACO,Hombre,8,60-69 a�os,8
+Russel Acosta,CANACO,Mujer,8,60-69 a�os,4
+Russel Acosta,CANACO,Hombre,8,70+,4
+Russel Acosta,CANACO,Mujer,8,70+,13
+Russel Acosta,CANACO,Hombre,9,60-69 a�os,7
+Russel Acosta,CANACO,Mujer,9,60-69 a�os,6
+Russel Acosta,CANACO,Hombre,9,70+,6
+Russel Acosta,CANACO,Mujer,9,70+,11
+Russel Acosta,CANACO,Hombre,10,60-69 a�os,4
+Russel Acosta,CANACO,Mujer,10,60-69 a�os,4
+Russel Acosta,CANACO,Hombre,10,70+,8
+Russel Acosta,CANACO,Mujer,10,70+,9
+Russel Acosta,CANACO,Hombre,12,60-69 a�os,2
+Russel Acosta,CANACO,Mujer,12,60-69 a�os,3
+Russel Acosta,CANACO,Hombre,12,70+,9
+Russel Acosta,CANACO,Mujer,12,70+,10
+Russel Acosta,CANACO,Mujer,13,60-69 a�os,8
+Fatima Balam,CBTIS 95,Hombre,7,60-69 a�os,5
+Fatima Balam,CBTIS 95,Mujer,7,60-69 a�os,8
+Fatima Balam,CBTIS 95,Hombre,7,70+,3
+Fatima Balam,CBTIS 95,Mujer,7,70+,3
+Fatima Balam,CBTIS 95,Mujer,8,60-69 a�os,7
+Fatima Balam,CBTIS 95,Hombre,8,70+,7
+Fatima Balam,CBTIS 95,Mujer,8,70+,8
+Fatima Balam,CBTIS 95,Hombre,9,60-69 a�os,7
+Fatima Balam,CBTIS 95,Mujer,9,60-69 a�os,11
+Fatima Balam,CBTIS 95,Hombre,9,70+,9
+Fatima Balam,CBTIS 95,Mujer,9,70+,13
+Fatima Balam,CBTIS 95,Hombre,12,60-69 a�os,6
+Fatima Balam,CBTIS 95,Mujer,12,60-69 a�os,9
+Fatima Balam,CBTIS 95,Hombre,12,70+,6
+Fatima Balam,CBTIS 95,Mujer,12,70+,7
+Fatima Balam,CBTIS 95,Hombre,13,60-69 a�os,3
+Fatima Balam,CBTIS 95,Mujer,13,70+,1
+Lucia Dzib,CBTIS 95,Hombre,7,60-69 a�os,6
+Lucia Dzib,CBTIS 95,Mujer,7,60-69 a�os,5
+Lucia Dzib,CBTIS 95,Hombre,7,70+,1
+Lucia Dzib,CBTIS 95,Mujer,7,70+,6
+Lucia Dzib,CBTIS 95,Hombre,8,60-69 a�os,5
+Lucia Dzib,CBTIS 95,Mujer,8,60-69 a�os,5
+Lucia Dzib,CBTIS 95,Hombre,8,70+,4
+Lucia Dzib,CBTIS 95,Mujer,8,70+,7
+Lucia Dzib,CBTIS 95,Hombre,9,60-69 a�os,9
+Lucia Dzib,CBTIS 95,Mujer,9,60-69 a�os,9
+Lucia Dzib,CBTIS 95,Hombre,9,70+,6
+Lucia Dzib,CBTIS 95,Mujer,9,70+,4
+Lucia Dzib,CBTIS 95,Hombre,12,60-69 a�os,7
+Lucia Dzib,CBTIS 95,Mujer,12,60-69 a�os,3
+Lucia Dzib,CBTIS 95,Hombre,12,70+,4
+Lucia Dzib,CBTIS 95,Mujer,12,70+,6
+Lucia Dzib,CBTIS 95,Mujer,13,60-69 a�os,2
+Lucia Dzib,CBTIS 95,Hombre,13,70+,3
+Lucia Dzib,CBTIS 95,Mujer,13,70+,1
+Fatima Canto,Cobay Chenku,Hombre,7,60-69 a�os,4
+Fatima Canto,Cobay Chenku,Mujer,7,60-69 a�os,5
+Fatima Canto,Cobay Chenku,Mujer,7,70+,1
+Fatima Canto,Cobay Chenku,Hombre,8,60-69 a�os,2
+Fatima Canto,Cobay Chenku,Mujer,8,60-69 a�os,4
+Fatima Canto,Cobay Chenku,Hombre,8,70+,2
+Fatima Canto,Cobay Chenku,Mujer,8,70+,4
+Fatima Canto,Cobay Chenku,Mujer,9,60-69 a�os,6
+Fatima Canto,Cobay Chenku,Hombre,9,70+,4
+Fatima Canto,Cobay Chenku,Mujer,9,70+,3
+Fatima Canto,Cobay Chenku,Hombre,11,60-69 a�os,2
+Fatima Canto,Cobay Chenku,Hombre,12,60-69 a�os,1
+Fatima Canto,Cobay Chenku,Mujer,12,60-69 a�os,2
+Fatima Canto,Cobay Chenku,Hombre,12,70+,1
+Fatima Canto,Cobay Chenku,Mujer,12,70+,3
+Fatima Canto,Cobay Chenku,Hombre,13,60-69 a�os,2
+Fatima Canto,Cobay Chenku,Mujer,13,60-69 a�os,3
+Fatima Canto,Cobay Chenku,Hombre,13,70+,5
+Fatima Canto,Cobay Chenku,Mujer,13,70+,2
+Fatima Canto,Cobay Chenku,Hombre,14,60-69 a�os,11
+Fatima Canto,Cobay Chenku,Mujer,14,60-69 a�os,5
+Fatima Canto,Cobay Chenku,Hombre,14,70+,0
+Fatima Canto,Cobay Chenku,Mujer,14,70+,7
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,7,60-69 a�os,1
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,7,60-69 a�os,3
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,7,70+,5
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,7,70+,3
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,8,60-69 a�os,1
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,8,60-69 a�os,4
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,8,70+,4
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,8,70+,5
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,9,60-69 a�os,4
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,9,60-69 a�os,4
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,9,70+,2
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,9,70+,3
+Jorge Gonzalez Villalobos,Cobay Chenku,Hombre,10,60-69 a�os,2
+Jorge Gonzalez Villalobos,Cobay Chenku,Mujer,10,60-69 a�os,1
+Faira Gomez,Conalep M�rida 1,Hombre,7,60-69 a�os,1
+Faira Gomez,Conalep M�rida 1,Mujer,7,60-69 a�os,2
+Faira Gomez,Conalep M�rida 1,Hombre,7,70+,4
+Faira Gomez,Conalep M�rida 1,Mujer,7,70+,6
+Faira Gomez,Conalep M�rida 1,Hombre,8,60-69 a�os,3
+Faira Gomez,Conalep M�rida 1,Mujer,8,60-69 a�os,7
+Faira Gomez,Conalep M�rida 1,Hombre,8,70+,3
+Faira Gomez,Conalep M�rida 1,Hombre,9,60-69 a�os,6
+Faira Gomez,Conalep M�rida 1,Mujer,9,60-69 a�os,5
+Faira Gomez,Conalep M�rida 1,Hombre,9,70+,3
+Faira Gomez,Conalep M�rida 1,Mujer,9,70+,4
+Faira Gomez,Conalep M�rida 1,Hombre,12,60-69 a�os,5
+Faira Gomez,Conalep M�rida 1,Mujer,12,60-69 a�os,5
+Faira Gomez,Conalep M�rida 1,Hombre,12,70+,3
+Faira Gomez,Conalep M�rida 1,Mujer,12,70+,5
+Faira Gomez,Conalep M�rida 1,Hombre,13,60-69 a�os,2
+Faira Gomez,Conalep M�rida 1,Mujer,13,60-69 a�os,1
+Faira Gomez,Conalep M�rida 1,Mujer,13,70+,2
+Israel Caba�as,Conalep M�rida 1,Hombre,7,60-69 a�os,2
+Israel Caba�as,Conalep M�rida 1,Mujer,7,60-69 a�os,2
+Israel Caba�as,Conalep M�rida 1,Hombre,7,70+,1
+Israel Caba�as,Conalep M�rida 1,Mujer,7,70+,4
+Israel Caba�as,Conalep M�rida 1,Hombre,8,60-69 a�os,1
+Israel Caba�as,Conalep M�rida 1,Mujer,8,60-69 a�os,4
+Israel Caba�as,Conalep M�rida 1,Hombre,8,70+,5
+Israel Caba�as,Conalep M�rida 1,Mujer,8,70+,5
+Israel Caba�as,Conalep M�rida 1,Hombre,9,60-69 a�os,8
+Israel Caba�as,Conalep M�rida 1,Mujer,9,60-69 a�os,7
+Israel Caba�as,Conalep M�rida 1,Hombre,9,70+,5
+Israel Caba�as,Conalep M�rida 1,Mujer,9,70+,6
+Israel Caba�as,Conalep M�rida 1,Hombre,12,60-69 a�os,3
+Israel Caba�as,Conalep M�rida 1,Mujer,12,60-69 a�os,5
+Israel Caba�as,Conalep M�rida 1,Hombre,12,70+,3
+Israel Caba�as,Conalep M�rida 1,Mujer,12,70+,3
+Israel Caba�as,Conalep M�rida 1,Hombre,13,60-69 a�os,2
+Israel Caba�as,Conalep M�rida 1,Mujer,13,60-69 a�os,2
+Israel Caba�as,Conalep M�rida 1,Hombre,13,70+,1
+Israel Caba�as,Conalep M�rida 1,Mujer,13,70+,1
+Israel Caba�as,Conalep M�rida 1,Hombre,14,60-69 a�os,0
+Israel Caba�as,Conalep M�rida 1,Mujer,14,60-69 a�os,1
+Israel Caba�as,Conalep M�rida 1,Hombre,14,70+,0
+Israel Caba�as,Conalep M�rida 1,Mujer,14,70+,0
+Luis Gamboa,ESAY,Hombre,7,60-69 a�os,2
+Luis Gamboa,ESAY,Mujer,7,60-69 a�os,4
+Luis Gamboa,ESAY,Hombre,7,70+,4
+Luis Gamboa,ESAY,Mujer,7,70+,5
+Luis Gamboa,ESAY,Hombre,8,60-69 a�os,3
+Luis Gamboa,ESAY,Mujer,8,60-69 a�os,4
+Luis Gamboa,ESAY,Hombre,8,70+,5
+Luis Gamboa,ESAY,Mujer,8,70+,3
+Luis Gamboa,ESAY,Hombre,9,60-69 a�os,1
+Luis Gamboa,ESAY,Mujer,9,60-69 a�os,2
+Luis Gamboa,ESAY,Hombre,9,70+,3
+Luis Gamboa,ESAY,Mujer,9,70+,2
+Luis Gamboa,ESAY,Hombre,10,60-69 a�os,2
+Luis Gamboa,ESAY,Mujer,10,60-69 a�os,5
+Luis Gamboa,ESAY,Hombre,10,70+,3
+Luis Gamboa,ESAY,Mujer,10,70+,3
+Luis Gamboa,ESAY,Hombre,12,60-69 a�os,3
+Luis Gamboa,ESAY,Mujer,12,60-69 a�os,3
+Luis Gamboa,ESAY,Hombre,12,70+,2
+Luis Gamboa,ESAY,Mujer,12,70+,2
+Luis Gamboa,ESAY,Hombre,13,60-69 a�os,4
+Luis Gamboa,ESAY,Mujer,13,60-69 a�os,1
+Luis Gamboa,ESAY,Hombre,13,70+,4
+Luis Gamboa,ESAY,Mujer,13,70+,1
+Luis Gamboa,ESAY,Hombre,14,60-69 a�os,2
+Luis Gamboa,ESAY,Mujer,14,60-69 a�os,0
+Luis Gamboa,ESAY,Hombre,14,70+,0
+Luis Gamboa,ESAY,Mujer,14,70+,0
+Wilbert Uicab,ESAY,Mujer,7,60-69 a�os,2
+Wilbert Uicab,ESAY,Hombre,7,70+,7
+Wilbert Uicab,ESAY,Mujer,7,70+,3
+Wilbert Uicab,ESAY,Hombre,8,60-69 a�os,4
+Wilbert Uicab,ESAY,Mujer,8,60-69 a�os,3
+Wilbert Uicab,ESAY,Hombre,8,70+,2
+Wilbert Uicab,ESAY,Mujer,8,70+,3
+Wilbert Uicab,ESAY,Hombre,9,60-69 a�os,2
+Wilbert Uicab,ESAY,Mujer,9,60-69 a�os,5
+Wilbert Uicab,ESAY,Hombre,9,70+,3
+Wilbert Uicab,ESAY,Mujer,9,70+,3
+Wilbert Uicab,ESAY,Hombre,10,60-69 a�os,2
+Wilbert Uicab,ESAY,Mujer,10,60-69 a�os,2
+Wilbert Uicab,ESAY,Hombre,10,70+,2
+Wilbert Uicab,ESAY,Mujer,10,70+,3
+Wilbert Uicab,ESAY,Hombre,12,60-69 a�os,1
+Wilbert Uicab,ESAY,Mujer,12,60-69 a�os,2
+Wilbert Uicab,ESAY,Hombre,12,70+,2
+Wilbert Uicab,ESAY,Mujer,12,70+,2
+Wilbert Uicab,ESAY,Hombre,13,60-69 a�os,2
+Wilbert Uicab,ESAY,Mujer,13,60-69 a�os,4
+Wilbert Uicab,ESAY,Hombre,13,70+,3
+Wilbert Uicab,ESAY,Mujer,13,70+,3
+Wilbert Uicab,ESAY,Hombre,14,60-69 a�os,2
+Wilbert Uicab,ESAY,Mujer,14,60-69 a�os,0
+Wilbert Uicab,ESAY,Hombre,14,70+,0
+Wilbert Uicab,ESAY,Mujer,14,70+,0
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,7,60-69 a�os,2
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,7,60-69 a�os,6
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,7,70+,3
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,7,70+,2
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,8,60-69 a�os,1
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,8,60-69 a�os,2
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,8,70+,3
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,8,70+,6
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,9,60-69 a�os,10
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,9,60-69 a�os,4
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,9,70+,2
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,9,70+,4
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,12,60-69 a�os,6
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,12,60-69 a�os,4
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,12,70+,6
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,13,60-69 a�os,3
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Mujer,13,60-69 a�os,3
+Jos� Gilberto Angulo Tun,Gimnasio Polifuncional,Hombre,13,70+,1
+Paula Jimenez,Gimnasio Polifuncional,Hombre,7,60-69 a�os,6
+Paula Jimenez,Gimnasio Polifuncional,Mujer,7,60-69 a�os,7
+Paula Jimenez,Gimnasio Polifuncional,Hombre,7,70+,7
+Paula Jimenez,Gimnasio Polifuncional,Mujer,7,70+,17
+Paula Jimenez,Gimnasio Polifuncional,Hombre,8,60-69 a�os,5
+Paula Jimenez,Gimnasio Polifuncional,Mujer,8,60-69 a�os,6
+Paula Jimenez,Gimnasio Polifuncional,Hombre,9,60-69 a�os,2
+Paula Jimenez,Gimnasio Polifuncional,Mujer,9,60-69 a�os,8
+Paula Jimenez,Gimnasio Polifuncional,Hombre,9,70+,3
+Paula Jimenez,Gimnasio Polifuncional,Mujer,9,70+,5
+Paula Jimenez,Gimnasio Polifuncional,Hombre,12,60-69 a�os,6
+Paula Jimenez,Gimnasio Polifuncional,Mujer,12,60-69 a�os,7
+Paula Jimenez,Gimnasio Polifuncional,Hombre,12,70+,8
+Paula Jimenez,Gimnasio Polifuncional,Mujer,12,70+,6
+Paula Jimenez,Gimnasio Polifuncional,Hombre,13,60-69 a�os,4
+Paula Jimenez,Gimnasio Polifuncional,Mujer,13,60-69 a�os,3
+Flor Poot,Inal�mbrica,Hombre,7,60-69 a�os,8
+Flor Poot,Inal�mbrica,Mujer,7,60-69 a�os,9
+Flor Poot,Inal�mbrica,Hombre,7,70+,6
+Flor Poot,Inal�mbrica,Mujer,7,70+,9
+Flor Poot,Inal�mbrica,Hombre,8,60-69 a�os,5
+Flor Poot,Inal�mbrica,Mujer,8,60-69 a�os,9
+Flor Poot,Inal�mbrica,Hombre,8,70+,8
+Flor Poot,Inal�mbrica,Mujer,8,70+,6
+Flor Poot,Inal�mbrica,Hombre,9,60-69 a�os,10
+Flor Poot,Inal�mbrica,Mujer,9,60-69 a�os,10
+Flor Poot,Inal�mbrica,Hombre,9,70+,8
+Flor Poot,Inal�mbrica,Mujer,9,70+,11
+Flor Poot,Inal�mbrica,Hombre,12,60-69 a�os,5
+Flor Poot,Inal�mbrica,Mujer,12,60-69 a�os,5
+Flor Poot,Inal�mbrica,Hombre,12,70+,1
+Flor Poot,Inal�mbrica,Mujer,12,70+,2
+Jessica Ceballos,Inal�mbrica,Hombre,7,60-69 a�os,4
+Jessica Ceballos,Inal�mbrica,Mujer,7,60-69 a�os,5
+Jessica Ceballos,Inal�mbrica,Hombre,7,70+,3
+Jessica Ceballos,Inal�mbrica,Mujer,7,70+,10
+Jessica Ceballos,Inal�mbrica,Hombre,8,60-69 a�os,3
+Jessica Ceballos,Inal�mbrica,Mujer,8,60-69 a�os,5
+Jessica Ceballos,Inal�mbrica,Hombre,8,70+,5
+Jessica Ceballos,Inal�mbrica,Mujer,8,70+,9
+Jessica Ceballos,Inal�mbrica,Hombre,9,60-69 a�os,9
+Jessica Ceballos,Inal�mbrica,Mujer,9,60-69 a�os,12
+Jessica Ceballos,Inal�mbrica,Hombre,9,70+,10
+Jessica Ceballos,Inal�mbrica,Mujer,9,70+,2
+Jessica Ceballos,Inal�mbrica,Hombre,12,60-69 a�os,3
+Jessica Ceballos,Inal�mbrica,Mujer,12,60-69 a�os,6
+Jessica Ceballos,Inal�mbrica,Hombre,12,70+,2
+Jessica Ceballos,Inal�mbrica,Mujer,12,70+,4
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Hombre,13,60-69 a�os,3
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Mujer,13,60-69 a�os,11
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Hombre,13,70+,1
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Mujer,13,70+,1
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,2
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Hombre,14,70+,3
+Carlos Ojeda,Polifuncional San Jos� Tecoh,Mujer,14,70+,3
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Hombre,13,60-69 a�os,1
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Mujer,13,60-69 a�os,7
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Hombre,13,70+,4
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Mujer,13,70+,4
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,2
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Hombre,14,70+,2
+Cinthya Ayala,Polifuncional San Jos� Tecoh,Mujer,14,70+,4
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Hombre,13,60-69 a�os,2
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Mujer,13,60-69 a�os,5
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Hombre,13,70+,2
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Mujer,13,70+,1
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,2
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Hombre,14,70+,2
+Maximiliano Estrella,Polifuncional San Jos� Tecoh,Mujer,14,70+,4
+Rafael Polanco,Polifuncional San Jos� Tecoh,Hombre,12,60-69 a�os,6
+Rafael Polanco,Polifuncional San Jos� Tecoh,Mujer,12,60-69 a�os,10
+Rafael Polanco,Polifuncional San Jos� Tecoh,Hombre,12,70+,3
+Rafael Polanco,Polifuncional San Jos� Tecoh,Mujer,12,70+,4
+Rafael Polanco,Polifuncional San Jos� Tecoh,Hombre,13,60-69 a�os,5
+Rafael Polanco,Polifuncional San Jos� Tecoh,Mujer,13,60-69 a�os,11
+Rafael Polanco,Polifuncional San Jos� Tecoh,Hombre,13,70+,1
+Rafael Polanco,Polifuncional San Jos� Tecoh,Mujer,13,70+,3
+Roque Avila,Polifuncional San Jos� Tecoh,Hombre,13,60-69 a�os,1
+Roque Avila,Polifuncional San Jos� Tecoh,Mujer,13,60-69 a�os,4
+Roque Avila,Polifuncional San Jos� Tecoh,Hombre,13,70+,1
+Roque Avila,Polifuncional San Jos� Tecoh,Mujer,13,70+,1
+Roque Avila,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,3
+Roque Avila,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Roque Avila,Polifuncional San Jos� Tecoh,Hombre,14,70+,2
+Roque Avila,Polifuncional San Jos� Tecoh,Mujer,14,70+,3
+Jaimen Cantu,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,3
+Jaimen Cantu,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Jaimen Cantu,Polifuncional San Jos� Tecoh,Hombre,14,70+,2
+Jaimen Cantu,Polifuncional San Jos� Tecoh,Mujer,14,70+,3
+Antonio Hernandez,Polifuncional San Jos� Tecoh,Hombre,14,60-69 a�os,3
+Antonio Hernandez,Polifuncional San Jos� Tecoh,Mujer,14,60-69 a�os,0
+Antonio Hernandez,Polifuncional San Jos� Tecoh,Hombre,14,70+,2
+Antonio Hernandez,Polifuncional San Jos� Tecoh,Mujer,14,70+,3
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,7,60-69 a�os,4
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,7,60-69 a�os,5
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,7,70+,9
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,7,70+,6
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,8,60-69 a�os,5
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,8,60-69 a�os,12
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,8,70+,10
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,8,70+,13
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,9,60-69 a�os,6
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,9,60-69 a�os,11
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,9,70+,9
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,9,70+,5
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,12,60-69 a�os,6
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,12,60-69 a�os,6
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,12,70+,12
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,12,70+,14
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,13,60-69 a�os,4
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,13,60-69 a�os,13
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,13,70+,8
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,13,70+,12
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,14,60-69 a�os,13
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,14,60-69 a�os,0
+Yomel Aguilar,Renacer Casa Adulto Mayor,Hombre,14,70+,0
+Yomel Aguilar,Renacer Casa Adulto Mayor,Mujer,14,70+,0
+Claudia Contreras,Secundaria Federal 5,Hombre,7,60-69 a�os,4
+Claudia Contreras,Secundaria Federal 5,Mujer,7,60-69 a�os,7
+Claudia Contreras,Secundaria Federal 5,Hombre,7,70+,4
+Claudia Contreras,Secundaria Federal 5,Mujer,7,70+,6
+Claudia Contreras,Secundaria Federal 5,Hombre,8,60-69 a�os,3
+Claudia Contreras,Secundaria Federal 5,Mujer,8,60-69 a�os,4
+Claudia Contreras,Secundaria Federal 5,Hombre,8,70+,5
+Claudia Contreras,Secundaria Federal 5,Mujer,8,70+,4
+Claudia Contreras,Secundaria Federal 5,Hombre,9,60-69 a�os,5
+Claudia Contreras,Secundaria Federal 5,Mujer,9,60-69 a�os,1
+Claudia Contreras,Secundaria Federal 5,Hombre,9,70+,3
+Claudia Contreras,Secundaria Federal 5,Mujer,9,70+,2
+Claudia Contreras,Secundaria Federal 5,Hombre,12,60-69 a�os,5
+Claudia Contreras,Secundaria Federal 5,Mujer,12,60-69 a�os,8
+Claudia Contreras,Secundaria Federal 5,Hombre,12,70+,4
+Claudia Contreras,Secundaria Federal 5,Mujer,12,70+,4
+Claudia Contreras,Secundaria Federal 5,Mujer,13,60-69 a�os,6
+Mitchel Hernandez,Secundaria Federal 5,Hombre,7,60-69 a�os,2
+Mitchel Hernandez,Secundaria Federal 5,Mujer,7,60-69 a�os,7
+Mitchel Hernandez,Secundaria Federal 5,Hombre,7,70+,3
+Mitchel Hernandez,Secundaria Federal 5,Mujer,7,70+,3
+Mitchel Hernandez,Secundaria Federal 5,Hombre,8,60-69 a�os,6
+Mitchel Hernandez,Secundaria Federal 5,Mujer,8,60-69 a�os,8
+Mitchel Hernandez,Secundaria Federal 5,Hombre,8,70+,5
+Mitchel Hernandez,Secundaria Federal 5,Mujer,8,70+,2
+Mitchel Hernandez,Secundaria Federal 5,Hombre,9,60-69 a�os,16
+Mitchel Hernandez,Secundaria Federal 5,Mujer,9,60-69 a�os,1
+Mitchel Hernandez,Secundaria Federal 5,Hombre,9,70+,2
+Mitchel Hernandez,Secundaria Federal 5,Mujer,9,70+,14
+Cinthya Ayala,Secundaria T�cnica 66,Hombre,7,60-69 a�os,1
+Cinthya Ayala,Secundaria T�cnica 66,Mujer,7,60-69 a�os,3
+Cinthya Ayala,Secundaria T�cnica 66,Hombre,7,70+,3
+Cinthya Ayala,Secundaria T�cnica 66,Mujer,7,70+,2
+Cinthya Ayala,Secundaria T�cnica 66,Hombre,12,60-69 a�os,9
+Cinthya Ayala,Secundaria T�cnica 66,Mujer,12,60-69 a�os,15
+Cinthya Ayala,Secundaria T�cnica 66,Hombre,12,70+,10
+Cinthya Ayala,Secundaria T�cnica 66,Mujer,12,70+,17
+Cinthya Ayala,Secundaria T�cnica 66,Hombre,13,60-69 a�os,5
+Cinthya Ayala,Secundaria T�cnica 66,Mujer,13,60-69 a�os,4
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,7,60-69 a�os,2
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,7,60-69 a�os,1
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,7,70+,4
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,7,70+,4
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,8,60-69 a�os,2
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,8,60-69 a�os,6
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,8,70+,4
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,8,70+,5
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,9,60-69 a�os,7
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,9,60-69 a�os,3
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,9,70+,3
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,9,70+,4
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,12,60-69 a�os,6
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,12,60-69 a�os,7
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,12,70+,4
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,12,70+,9
+Maximiliano Estrella,Secundaria T�cnica 66,Hombre,13,60-69 a�os,3
+Maximiliano Estrella,Secundaria T�cnica 66,Mujer,13,60-69 a�os,5
+Eric Escalante,Secundaria T�cnica 75,Hombre,7,60-69 a�os,4
+Eric Escalante,Secundaria T�cnica 75,Mujer,7,60-69 a�os,6
+Eric Escalante,Secundaria T�cnica 75,Mujer,7,70+,2
+Eric Escalante,Secundaria T�cnica 75,Hombre,8,60-69 a�os,5
+Eric Escalante,Secundaria T�cnica 75,Mujer,8,60-69 a�os,5
+Eric Escalante,Secundaria T�cnica 75,Mujer,8,70+,3
+Eric Escalante,Secundaria T�cnica 75,Hombre,9,60-69 a�os,4
+Eric Escalante,Secundaria T�cnica 75,Mujer,9,60-69 a�os,8
+Eric Escalante,Secundaria T�cnica 75,Hombre,9,70+,1
+Eric Escalante,Secundaria T�cnica 75,Mujer,9,70+,3
+Eric Escalante,Secundaria T�cnica 75,Hombre,10,60-69 a�os,5
+Eric Escalante,Secundaria T�cnica 75,Mujer,10,60-69 a�os,8
+Eric Escalante,Secundaria T�cnica 75,Hombre,10,70+,12
+Eric Escalante,Secundaria T�cnica 75,Mujer,10,70+,11
+Eric Escalante,Secundaria T�cnica 75,Hombre,12,60-69 a�os,1
+Eric Escalante,Secundaria T�cnica 75,Mujer,12,60-69 a�os,15
+Eric Escalante,Secundaria T�cnica 75,Hombre,12,70+,7
+Eric Escalante,Secundaria T�cnica 75,Mujer,12,70+,9
+Misael Parra,Secundaria T�cnica 75,Hombre,7,60-69 a�os,5
+Misael Parra,Secundaria T�cnica 75,Mujer,7,60-69 a�os,9
+Misael Parra,Secundaria T�cnica 75,Hombre,7,70+,2
+Misael Parra,Secundaria T�cnica 75,Mujer,7,70+,1
+Misael Parra,Secundaria T�cnica 75,Hombre,8,60-69 a�os,4
+Misael Parra,Secundaria T�cnica 75,Mujer,8,60-69 a�os,3
+Misael Parra,Secundaria T�cnica 75,Hombre,8,70+,1
+Misael Parra,Secundaria T�cnica 75,Hombre,9,60-69 a�os,5
+Misael Parra,Secundaria T�cnica 75,Mujer,9,60-69 a�os,7
+Misael Parra,Secundaria T�cnica 75,Hombre,9,70+,8
+Misael Parra,Secundaria T�cnica 75,Mujer,9,70+,11
+Misael Parra,Secundaria T�cnica 75,Hombre,10,60-69 a�os,11
+Misael Parra,Secundaria T�cnica 75,Mujer,10,60-69 a�os,5
+Misael Parra,Secundaria T�cnica 75,Hombre,10,70+,2
+Misael Parra,Secundaria T�cnica 75,Mujer,10,70+,3
+Misael Parra,Secundaria T�cnica 75,Hombre,12,60-69 a�os,3
+Misael Parra,Secundaria T�cnica 75,Mujer,12,60-69 a�os,7
+Misael Parra,Secundaria T�cnica 75,Hombre,12,70+,5
+Misael Parra,Secundaria T�cnica 75,Mujer,12,70+,5
+Misael Parra,Secundaria T�cnica 75,Hombre,13,60-69 a�os,10
+Misael Parra,Secundaria T�cnica 75,Mujer,13,60-69 a�os,4
+Misael Parra,Secundaria T�cnica 75,Hombre,13,70+,4
+Misael Parra,Secundaria T�cnica 75,Mujer,13,70+,2
+Antonio Hernandez,Siglo XXI,Hombre,7,60-69 a�os,12
+Antonio Hernandez,Siglo XXI,Mujer,7,60-69 a�os,4
+Antonio Hernandez,Siglo XXI,Hombre,7,70+,5
+Antonio Hernandez,Siglo XXI,Mujer,7,70+,8
+Antonio Hernandez,Siglo XXI,Hombre,8,60-69 a�os,8
+Antonio Hernandez,Siglo XXI,Mujer,8,60-69 a�os,6
+Antonio Hernandez,Siglo XXI,Hombre,8,70+,7
+Antonio Hernandez,Siglo XXI,Mujer,8,70+,8
+Antonio Hernandez,Siglo XXI,Hombre,9,60-69 a�os,11
+Antonio Hernandez,Siglo XXI,Mujer,9,60-69 a�os,7
+Antonio Hernandez,Siglo XXI,Hombre,9,70+,2
+Antonio Hernandez,Siglo XXI,Mujer,9,70+,7
+Antonio Hernandez,Siglo XXI,Hombre,10,60-69 a�os,5
+Antonio Hernandez,Siglo XXI,Mujer,10,60-69 a�os,10
+Antonio Hernandez,Siglo XXI,Hombre,10,70+,2
+Antonio Hernandez,Siglo XXI,Mujer,10,70+,2
+Antonio Hernandez,Siglo XXI,Hombre,12,60-69 a�os,8
+Antonio Hernandez,Siglo XXI,Mujer,12,60-69 a�os,15
+Antonio Hernandez,Siglo XXI,Hombre,12,70+,3
+Antonio Hernandez,Siglo XXI,Mujer,12,70+,5
+Antonio Hernandez,Siglo XXI,Hombre,13,60-69 a�os,2
+Antonio Hernandez,Siglo XXI,Mujer,13,60-69 a�os,6
+Antonio Hernandez,Siglo XXI,Hombre,13,70+,4
+Antonio Hernandez,Siglo XXI,Mujer,13,70+,6
+Antonio Hernandez,Siglo XXI,Hombre,14,60-69 a�os,0
+Antonio Hernandez,Siglo XXI,Mujer,14,60-69 a�os,0
+Antonio Hernandez,Siglo XXI,Hombre,14,70+,0
+Antonio Hernandez,Siglo XXI,Mujer,14,70+,3
+Jaimen Cantu,Siglo XXI,Hombre,7,60-69 a�os,6
+Jaimen Cantu,Siglo XXI,Mujer,7,60-69 a�os,4
+Jaimen Cantu,Siglo XXI,Hombre,7,70+,6
+Jaimen Cantu,Siglo XXI,Mujer,7,70+,5
+Jaimen Cantu,Siglo XXI,Hombre,8,60-69 a�os,5
+Jaimen Cantu,Siglo XXI,Mujer,8,60-69 a�os,13
+Jaimen Cantu,Siglo XXI,Hombre,8,70+,2
+Jaimen Cantu,Siglo XXI,Mujer,8,70+,5
+Jaimen Cantu,Siglo XXI,Hombre,9,60-69 a�os,4
+Jaimen Cantu,Siglo XXI,Mujer,9,60-69 a�os,3
+Jaimen Cantu,Siglo XXI,Hombre,9,70+,3
+Jaimen Cantu,Siglo XXI,Mujer,9,70+,4
+Jaimen Cantu,Siglo XXI,Hombre,10,60-69 a�os,9
+Jaimen Cantu,Siglo XXI,Mujer,10,60-69 a�os,8
+Jaimen Cantu,Siglo XXI,Hombre,10,70+,2
+Jaimen Cantu,Siglo XXI,Mujer,10,70+,7
+Jaimen Cantu,Siglo XXI,Hombre,12,60-69 a�os,6
+Jaimen Cantu,Siglo XXI,Mujer,12,60-69 a�os,9
+Jaimen Cantu,Siglo XXI,Hombre,12,70+,3
+Jaimen Cantu,Siglo XXI,Mujer,12,70+,3
+Jaimen Cantu,Siglo XXI,Hombre,13,60-69 a�os,5
+Jaimen Cantu,Siglo XXI,Mujer,13,60-69 a�os,7
+Jaimen Cantu,Siglo XXI,Hombre,13,70+,1
+Jaimen Cantu,Siglo XXI,Mujer,13,70+,6
+Joaquin Noguera,Siglo XXI,Hombre,7,60-69 a�os,2
+Joaquin Noguera,Siglo XXI,Mujer,7,60-69 a�os,6
+Joaquin Noguera,Siglo XXI,Hombre,7,70+,7
+Joaquin Noguera,Siglo XXI,Mujer,7,70+,9
+Joaquin Noguera,Siglo XXI,Hombre,8,60-69 a�os,7
+Joaquin Noguera,Siglo XXI,Mujer,8,60-69 a�os,8
+Joaquin Noguera,Siglo XXI,Hombre,8,70+,6
+Joaquin Noguera,Siglo XXI,Mujer,8,70+,3
+Joaquin Noguera,Siglo XXI,Hombre,9,60-69 a�os,9
+Joaquin Noguera,Siglo XXI,Mujer,9,60-69 a�os,11
+Joaquin Noguera,Siglo XXI,Hombre,9,70+,3
+Joaquin Noguera,Siglo XXI,Mujer,9,70+,6
+Joaquin Noguera,Siglo XXI,Hombre,10,60-69 a�os,5
+Joaquin Noguera,Siglo XXI,Mujer,10,60-69 a�os,7
+Joaquin Noguera,Siglo XXI,Hombre,10,70+,4
+Joaquin Noguera,Siglo XXI,Mujer,10,70+,2
+Joaquin Noguera,Siglo XXI,Hombre,12,60-69 a�os,8
+Joaquin Noguera,Siglo XXI,Mujer,12,60-69 a�os,7
+Joaquin Noguera,Siglo XXI,Hombre,12,70+,9
+Joaquin Noguera,Siglo XXI,Mujer,12,70+,1
+Joaquin Noguera,Siglo XXI,Hombre,13,60-69 a�os,4
+Joaquin Noguera,Siglo XXI,Mujer,13,60-69 a�os,4
+Joaquin Noguera,Siglo XXI,Hombre,13,70+,5
+Joaquin Noguera,Siglo XXI,Mujer,13,70+,2
+Pedro Pereira,Siglo XXI,Hombre,7,60-69 a�os,5
+Pedro Pereira,Siglo XXI,Mujer,7,60-69 a�os,6
+Pedro Pereira,Siglo XXI,Hombre,7,70+,9
+Pedro Pereira,Siglo XXI,Mujer,7,70+,8
+Pedro Pereira,Siglo XXI,Hombre,8,60-69 a�os,3
+Pedro Pereira,Siglo XXI,Mujer,8,60-69 a�os,7
+Pedro Pereira,Siglo XXI,Hombre,8,70+,4
+Pedro Pereira,Siglo XXI,Mujer,8,70+,4
+Pedro Pereira,Siglo XXI,Hombre,9,60-69 a�os,8
+Pedro Pereira,Siglo XXI,Mujer,9,60-69 a�os,6
+Pedro Pereira,Siglo XXI,Hombre,9,70+,9
+Pedro Pereira,Siglo XXI,Mujer,9,70+,8
+Pedro Pereira,Siglo XXI,Hombre,10,60-69 a�os,4
+Pedro Pereira,Siglo XXI,Mujer,10,60-69 a�os,6
+Pedro Pereira,Siglo XXI,Hombre,10,70+,3
+Pedro Pereira,Siglo XXI,Mujer,10,70+,6
+Pedro Pereira,Siglo XXI,Hombre,12,60-69 a�os,6
+Pedro Pereira,Siglo XXI,Mujer,12,60-69 a�os,5
+Pedro Pereira,Siglo XXI,Hombre,12,70+,2
+Pedro Pereira,Siglo XXI,Mujer,12,70+,5
+Pedro Pereira,Siglo XXI,Mujer,13,60-69 a�os,2
+Pedro Pereira,Siglo XXI,Hombre,13,70+,3
+Pedro Pereira,Siglo XXI,Mujer,13,70+,4
+Erika Llanes,Tecnol�gico de M�rida,Hombre,7,60-69 a�os,3
+Erika Llanes,Tecnol�gico de M�rida,Mujer,7,60-69 a�os,3
+Erika Llanes,Tecnol�gico de M�rida,Hombre,7,70+,2
+Erika Llanes,Tecnol�gico de M�rida,Mujer,7,70+,5
+Erika Llanes,Tecnol�gico de M�rida,Hombre,8,60-69 a�os,1
+Erika Llanes,Tecnol�gico de M�rida,Mujer,8,60-69 a�os,2
+Erika Llanes,Tecnol�gico de M�rida,Hombre,8,70+,6
+Erika Llanes,Tecnol�gico de M�rida,Mujer,8,70+,2
+Erika Llanes,Tecnol�gico de M�rida,Hombre,9,60-69 a�os,4
+Erika Llanes,Tecnol�gico de M�rida,Mujer,9,60-69 a�os,4
+Erika Llanes,Tecnol�gico de M�rida,Hombre,9,70+,3
+Erika Llanes,Tecnol�gico de M�rida,Mujer,9,70+,7
+Erika Llanes,Tecnol�gico de M�rida,Hombre,12,60-69 a�os,6
+Erika Llanes,Tecnol�gico de M�rida,Mujer,12,60-69 a�os,7
+Erika Llanes,Tecnol�gico de M�rida,Hombre,12,70+,3
+Erika Llanes,Tecnol�gico de M�rida,Mujer,12,70+,9
+Erika Llanes,Tecnol�gico de M�rida,Hombre,13,60-69 a�os,5
+Erika Llanes,Tecnol�gico de M�rida,Mujer,13,60-69 a�os,10
+Erika Llanes,Tecnol�gico de M�rida,Hombre,13,70+,2
+Erika Llanes,Tecnol�gico de M�rida,Mujer,13,70+,5
+Erika Llanes,Tecnol�gico de M�rida,Hombre,14,60-69 a�os,1
+Erika Llanes,Tecnol�gico de M�rida,Mujer,14,60-69 a�os,0
+Erika Llanes,Tecnol�gico de M�rida,Hombre,14,70+,0
+Erika Llanes,Tecnol�gico de M�rida,Mujer,14,70+,0
+Sahia Farah,Tecnol�gico de M�rida,Mujer,7,60-69 a�os,4
+Sahia Farah,Tecnol�gico de M�rida,Hombre,7,70+,1
+Sahia Farah,Tecnol�gico de M�rida,Mujer,7,70+,5
+Sahia Farah,Tecnol�gico de M�rida,Hombre,8,60-69 a�os,3
+Sahia Farah,Tecnol�gico de M�rida,Mujer,8,60-69 a�os,2
+Sahia Farah,Tecnol�gico de M�rida,Hombre,8,70+,3
+Sahia Farah,Tecnol�gico de M�rida,Mujer,8,70+,3
+Sahia Farah,Tecnol�gico de M�rida,Hombre,9,60-69 a�os,2
+Sahia Farah,Tecnol�gico de M�rida,Mujer,9,60-69 a�os,3
+Sahia Farah,Tecnol�gico de M�rida,Hombre,9,70+,1
+Sahia Farah,Tecnol�gico de M�rida,Mujer,9,70+,4
+Sahia Farah,Tecnol�gico de M�rida,Mujer,10,60-69 a�os,1
+Sahia Farah,Tecnol�gico de M�rida,Hombre,12,60-69 a�os,4
+Sahia Farah,Tecnol�gico de M�rida,Mujer,12,60-69 a�os,3
+Sahia Farah,Tecnol�gico de M�rida,Hombre,12,70+,6
+Sahia Farah,Tecnol�gico de M�rida,Mujer,12,70+,9
+Sahia Farah,Tecnol�gico de M�rida,Hombre,13,60-69 a�os,3
+Sahia Farah,Tecnol�gico de M�rida,Mujer,13,60-69 a�os,1
+Sahia Farah,Tecnol�gico de M�rida,Hombre,13,70+,4
+Sahia Farah,Tecnol�gico de M�rida,Mujer,13,70+,3
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,7,60-69 a�os,3
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,7,60-69 a�os,2
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,7,70+,9
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,8,60-69 a�os,4
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,8,60-69 a�os,9
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,8,70+,3
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,8,70+,8
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,9,60-69 a�os,3
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,9,60-69 a�os,2
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,9,70+,4
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,9,70+,7
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,12,60-69 a�os,5
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,12,60-69 a�os,7
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,12,70+,3
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,12,70+,2
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Hombre,13,60-69 a�os,1
+Carlos Ojeda,Unidad Deportiva Villa Palmira,Mujer,13,70+,1
+Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,14,60-69 a�os,5
+Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,14,60-69 a�os,0
+Rafael Polanco,Unidad Deportiva Villa Palmira,Hombre,14,70+,0
+Rafael Polanco,Unidad Deportiva Villa Palmira,Mujer,14,70+,0
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,7,60-69 a�os,3
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,7,70+,5
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,7,70+,5
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,8,60-69 a�os,2
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,8,60-69 a�os,7
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,8,70+,5
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,8,70+,12
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,9,60-69 a�os,5
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,9,60-69 a�os,5
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,9,70+,1
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,12,60-69 a�os,1
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,12,60-69 a�os,8
+Roque Avila,Unidad Deportiva Villa Palmira,Hombre,12,70+,2
+Roque Avila,Unidad Deportiva Villa Palmira,Mujer,12,70+,2
+Estephania Duarte,Universidad Modelo,Hombre,7,60-69 a�os,3
+Estephania Duarte,Universidad Modelo,Mujer,7,60-69 a�os,4
+Estephania Duarte,Universidad Modelo,Hombre,7,70+,1
+Estephania Duarte,Universidad Modelo,Mujer,7,70+,4
+Estephania Duarte,Universidad Modelo,Hombre,8,60-69 a�os,3
+Estephania Duarte,Universidad Modelo,Mujer,8,60-69 a�os,4
+Estephania Duarte,Universidad Modelo,Hombre,8,70+,1
+Estephania Duarte,Universidad Modelo,Mujer,8,70+,3
+Estephania Duarte,Universidad Modelo,Hombre,9,60-69 a�os,2
+Estephania Duarte,Universidad Modelo,Mujer,9,60-69 a�os,5
+Estephania Duarte,Universidad Modelo,Hombre,9,70+,3
+Estephania Duarte,Universidad Modelo,Mujer,9,70+,3
+Estephania Duarte,Universidad Modelo,Hombre,12,60-69 a�os,4
+Estephania Duarte,Universidad Modelo,Mujer,12,60-69 a�os,5
+Estephania Duarte,Universidad Modelo,Hombre,12,70+,3
+Estephania Duarte,Universidad Modelo,Mujer,12,70+,4
+Estephania Duarte,Universidad Modelo,Hombre,13,60-69 a�os,4
+Estephania Duarte,Universidad Modelo,Mujer,13,60-69 a�os,4
+Estephania Duarte,Universidad Modelo,Hombre,13,70+,3
+Estephania Duarte,Universidad Modelo,Mujer,13,70+,3
+Estephania Duarte,Universidad Modelo,Hombre,14,60-69 a�os,1
+Estephania Duarte,Universidad Modelo,Mujer,14,60-69 a�os,0
+Estephania Duarte,Universidad Modelo,Hombre,14,70+,0
+Estephania Duarte,Universidad Modelo,Mujer,14,70+,2
+Wendy Macias,Universidad Modelo,Hombre,7,60-69 a�os,2
+Wendy Macias,Universidad Modelo,Mujer,7,60-69 a�os,2
+Wendy Macias,Universidad Modelo,Hombre,7,70+,3
+Wendy Macias,Universidad Modelo,Mujer,7,70+,3
+Wendy Macias,Universidad Modelo,Hombre,8,60-69 a�os,4
+Wendy Macias,Universidad Modelo,Mujer,8,60-69 a�os,5
+Wendy Macias,Universidad Modelo,Hombre,8,70+,2
+Wendy Macias,Universidad Modelo,Mujer,8,70+,3
+Wendy Macias,Universidad Modelo,Hombre,9,60-69 a�os,4
+Wendy Macias,Universidad Modelo,Mujer,9,60-69 a�os,4
+Wendy Macias,Universidad Modelo,Hombre,9,70+,3
+Wendy Macias,Universidad Modelo,Mujer,9,70+,3
+Wendy Macias,Universidad Modelo,Hombre,12,60-69 a�os,4
+Wendy Macias,Universidad Modelo,Mujer,12,60-69 a�os,5
+Wendy Macias,Universidad Modelo,Hombre,12,70+,3
+Wendy Macias,Universidad Modelo,Mujer,12,70+,5
+Wendy Macias,Universidad Modelo,Hombre,13,60-69 a�os,2
+Wendy Macias,Universidad Modelo,Mujer,13,60-69 a�os,2
+Wendy Macias,Universidad Modelo,Hombre,13,70+,3
+Wendy Macias,Universidad Modelo,Mujer,13,70+,2
+Wendy Macias,Universidad Modelo,Hombre,14,60-69 a�os,1
+Wendy Macias,Universidad Modelo,Mujer,14,60-69 a�os,1
+Wendy Macias,Universidad Modelo,Hombre,14,70+,1
+Wendy Macias,Universidad Modelo,Mujer,14,70+,0
