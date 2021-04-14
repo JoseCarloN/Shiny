@@ -52,14 +52,15 @@ server = function(input, output, session) {
   z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?` = ifelse(is.na(z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?`), "No disponible" , z$`¿Ha recibido algún apoyo de algún tipo a causa del Covid-19?`)
   z$`¿En que consistió el apoyo?`[is.na(z$`¿En que consistió el apoyo?`)] = "No disponible"
   z = z[-496,]
+  z = z[-2257,]
   z$`Nombre del Encuestador`[z$`Nombre del Encuestador` == "Hector Villanueva"] = "Sahia Farah"
-  z$`Nombre del Encuestador`[z$`Nombre del Encuestador` == "Rafael Polanco" & z$`Punto de vacunación` == "Secundaria Técnica 66"] = "Cinthya Ayala"
   
   metas = read.csv("https://raw.githubusercontent.com/ghostdoggie1/Shiny/main/Metas.csv", encoding = "UTF-8")
-  colnames(metas) = c("Nombre del Encuestador", "Punto de vacunación", "Sexo del Encuestado", "Rango de Edad", "Encuestas", "Zona", "Dia", "Meta")
+  colnames(metas) = c("Nombre del Encuestador", "Punto de vacunación", "Sexo del Encuestado", "Dia", "Rango de Edad", "Meta")
   
   z = z %>%
     filter((hour(`Marca temporal`) > 7 & hour(`Marca temporal`) < 24) & !(`Nombre del Encuestador` == "Cinthya Ayala" & `Marca temporal` < as.POSIXct("2021-04-10")))
+  z$`Nombre del Encuestador`[z$`Nombre del Encuestador` == "Rafael Polanco" & z$`Punto de vacunación` == "Secundaria Técnica 66"] = "Cinthya Ayala"
   
   condiciones_invalidas = unique(z$`¿Padece alguna de las siguientes condiciones?`[which(stringr::str_detect(z$`¿Padece alguna de las siguientes condiciones?`, "Ninguna"))])[which(stringr::str_length(unique(z$`¿Padece alguna de las siguientes condiciones?`)[stringr::str_detect(unique(z$`¿Padece alguna de las siguientes condiciones?`), "Ninguna")]) != stringr::str_length("Ninguna"))]
   consecuencia_invalidas = unique(z$`¿Considera que el fenómeno de la pandemia del Covid-19 y sus implicaciones le causo alguna consecuencia o impacto negativo en los siguientes aspectos?`[which(stringr::str_detect(z$`¿Considera que el fenómeno de la pandemia del Covid-19 y sus implicaciones le causo alguna consecuencia o impacto negativo en los siguientes aspectos?`, "Ninguna"))])[which(stringr::str_length(unique(z$`¿Considera que el fenómeno de la pandemia del Covid-19 y sus implicaciones le causo alguna consecuencia o impacto negativo en los siguientes aspectos?`)[stringr::str_detect(unique(z$`¿Considera que el fenómeno de la pandemia del Covid-19 y sus implicaciones le causo alguna consecuencia o impacto negativo en los siguientes aspectos?`), "Ninguna")]) != stringr::str_length("Ninguna"))]
@@ -88,7 +89,7 @@ server = function(input, output, session) {
     data = filter(z, `Punto de vacunación` == modulo)
     
     corte_anterior = as.POSIXct(paste0("2021", sep = "-", "04", sep = "-", day(now()), sep = " ", "07:00:00"), tz = "UTC")
-    corte_actual = now(tzone = "UTC")
+    corte_actual = now()
     
     # Encuestas de hoy por persona #
     encuesta_persona_dia = data[which(data$`Marca temporal` >= corte_anterior & data$`Marca temporal` <= corte_actual), ] %>%
@@ -207,13 +208,13 @@ server = function(input, output, session) {
                                             dom = "Bfrtip",
                                             buttons =c('copy', 'csv', 'excel', 'pdf', 'print')))
   
-  output$Meta_dia = renderDataTable({
-    datos = df()[[3]]
-    return(datos)
-  }, extensions = "Buttons", options = list(scrollX = TRUE,
-                                            autoWidth = TRUE,
-                                            dom = 'Bfrtip',
-                                            buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
-  ))
+  # output$Meta_dia = renderDataTable({
+  #   datos = df()[[3]]
+  #   return(datos)
+  # }, extensions = "Buttons", options = list(scrollX = TRUE,
+  #                                           autoWidth = TRUE,
+  #                                           dom = 'Bfrtip',
+  #                                           buttons = c('copy', 'csv', 'excel', 'pdf', 'print')
+  # ))
 
 }

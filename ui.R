@@ -27,12 +27,12 @@ ui = dashboardPage(skin = "blue",
                                                                       box(dataTableOutput(outputId = "General_socio"), solidHeader = TRUE, height = "auto", width = "6")
                                                                )
                                                              )
-                                          ),
-                                 tabPanel("Hoy", tabItem(tabName = "dashboard1",
-                                                            fluidRow(box(dataTableOutput(outputId = "Meta_dia"), solidHeader = TRUE, height = "auto", width = "auto")
-                                                                       )
-                                                            )
                                           )
+                                 # tabPanel("Hoy", tabItem(tabName = "dashboard1",
+                                 #                            fluidRow(box(dataTableOutput(outputId = "Meta_dia"), solidHeader = TRUE, height = "auto", width = "8")
+                                 #                                       )
+                                 #                            )
+                                 #          )
                                  )
                      )
                      )
